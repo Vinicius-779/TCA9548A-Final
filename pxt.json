@@ -1,0 +1,8 @@
+{
+  "name": "tca9548a",
+  "description": "Controle de canais do multiplexador I2C TCA9548A",
+  "dependencies": {},
+  "files": [
+    "main.ts"
+  ]
+}
